@@ -1,0 +1,151 @@
+body{
+	
+	background: url("../img/beachblur.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.logo{
+	
+	height: 250px;
+	float: middle;
+	
+}
+.logobox{
+	
+	background-color: white;
+	
+}
+.toptext{
+	text-align: right;
+	padding-right: 30px;
+	color: #6ba038;
+	font-size: 1.125em;
+	font-family: MV Boli;
+}
+.toptext > a{
+	color: #6ba038;
+}
+.toptext > a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+.icons > a{
+	
+	position: relative;
+	color: #6ba038;
+	float: right;
+	padding: 5px;
+	
+}
+
+.navbar-default{
+	
+	
+	background-color: white;
+	border-right: white;
+	border-left: white;
+	border-top: #6ba038 solid 1px;
+	border-bottom:  #6ba038 solid 1px;
+	text-align: center;
+	-webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+	padding-bottom: 5px;
+	min-height:40px !important;
+}
+.navbar-default .navbar-nav > li > a{
+	
+	color: black;
+	font-size: 1.5em;
+	font-family: Papyrus;
+	padding-top: 10px;
+	padding-bottom: 8px;
+	padding-right: 30px;
+	
+}
+.navbar-default .navbar-nav > li > a:hover{
+	
+	color: #6ba038;
+}
+.bodybox{
+	
+	background-color: white;
+	box-shadow: 0px 0px 45px white;
+}
+.topbody{
+	
+	text-align: center;
+	font-family: MV Boli;
+}
+.soaplistings{
+	color: #6ba038;
+	font-family: Papyrus;
+	text-align: center;
+}
+.soaplistings > a{
+	color: #6ba038;
+}
+.soaplistings > a:hover{
+	color:black;
+	text-decoration: none;
+}
+.middletext{
+	
+	color: black;
+	font-family: MV Boli;
+	text-align: center;
+	padding-top: 12px;
+}
+.products{
+	padding-top: 20px;
+	
+}
+.productname{
+    color: #6ba038;
+	font-family: Papyrus;
+	font-size: 2em;
+	padding-top: 5px;
+}
+.price{
+	color:black;
+	font-family: MV Boli;
+	font-size: 1.5em;
+}
+.scent{
+	color: #6ba038;
+	font-family: Papyrus;
+	font-size: 1.2em;
+}
+.bottomarea{
+	
+	background-color: #6ba038;
+	color: black;
+	font-size: 1.2em;
+}
+.bottomtitle{
+	
+	color: black;
+	font-family: MV Boli;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.iconsbottom{
+	text-align: center;
+	padding-bottom:20px;
+}
+.iconsbottom > a{
+	
+	color: #b5e08c;
+	padding: 10px;
+}
+.iconsbottom > a:hover{
+	
+	color:white;
+}
+.tac{
+	text-align: center;
+	font-size: .9em;
+}
