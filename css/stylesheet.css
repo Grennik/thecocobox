@@ -1,3 +1,9 @@
+@font-face{
+	font-family: MV Boli;
+	src: url("../font/mvboli.ttf");
+	
+}
+
 body{
 	
 	background: url("../img/beachblur.jpg") no-repeat center center fixed;
