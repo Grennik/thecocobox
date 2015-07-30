@@ -42,7 +42,10 @@ body{
 	color: #6ba038;
 	float: right;
 	padding: 5px;
+}
+.icons > a:hover{
 	
+	color: #b5e08c
 }
 
 .navbar-default{
