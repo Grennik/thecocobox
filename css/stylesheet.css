@@ -1,5 +1,5 @@
 @font-face{
-	font-family: MV Boli;
+	font-family: mVBoli;
 	src: url("../fonts/mvboli.ttf");
 	
 }
@@ -26,7 +26,7 @@ body{
 	padding-right: 30px;
 	color: #6ba038;
 	font-size: 1.125em;
-	font-family: MV Boli;
+	font-family: mVBoli;
 }
 .toptext > a{
 	color: #6ba038;
@@ -81,7 +81,7 @@ body{
 .topbody{
 	
 	text-align: center;
-	font-family: MV Boli;
+	font-family: mVBoli;
 }
 .soaplistings{
 	color: #6ba038;
@@ -98,7 +98,7 @@ body{
 .middletext{
 	
 	color: black;
-	font-family: MV Boli;
+	font-family: mVBoli;
 	text-align: center;
 	padding-top: 12px;
 }
@@ -114,7 +114,7 @@ body{
 }
 .price{
 	color:black;
-	font-family: MV Boli;
+	font-family: mVBoli;
 	font-size: 1.5em;
 }
 .scent{
@@ -131,7 +131,7 @@ body{
 .bottomtitle{
 	
 	color: black;
-	font-family: MV Boli;
+	font-family: mVBoli;
 	text-align: center;
 	padding-bottom: 30px;
 }
